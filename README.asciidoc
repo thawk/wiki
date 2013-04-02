@@ -1,0 +1,2 @@
+本库作为个人知识库，专用于存放个人收集到的一些经验技巧。请通过
+https://github.com/thawk/wiki/wiki[Wiki] 页面进行访问。
